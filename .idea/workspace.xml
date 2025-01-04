@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1eed5155-1e2d-4163-8434-3b7c02e05594" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pynnsilvania/JUnitTesting/NumberTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pynnsilvania/JUnitTesting/NumberTestingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pynnsilvania/OOP/arraysD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pynnsilvania/QuickTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pynnsilvania/QuickTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.QuickTest.executor": "Run",
+    "Application.arraysD.executor": "Run",
     "JUnit.NumberTestingTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.Java-pynsilvania [test,-DforkCount=0...].executor": "Debug",
@@ -65,13 +63,26 @@
       <recent name="pynnsilvania.JUnitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NumberTestingTest">
+  <component name="RunManager" selected="Application.arraysD">
     <configuration name="QuickTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pynnsilvania.QuickTest" />
       <module name="Java-pynsilvania" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pynnsilvania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arraysD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pynnsilvania.OOP.arraysD" />
+      <module name="Java-pynsilvania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pynnsilvania.OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arraysD" />
         <item itemvalue="JUnit.NumberTestingTest" />
         <item itemvalue="Application.QuickTest" />
       </list>
